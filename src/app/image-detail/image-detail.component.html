@@ -1,14 +1,15 @@
 <div class="row">
   <div class="col-md-12">
-    <div [ngStyle]="{'background-image':'url('+ image.url +')'}" class="img-container">
-    </div>
+    <a routerLink="/">
+      <div [ngStyle]="{'background-image':'url('+ image.url +')'}" class="img-container"></div>
+    </a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-md-12 caption-row">
     <span id="caption">
-      <a routerLink="/">{{ image.caption }}</a>
+      {{ image.caption }}
     </span>
   </div>
 </div>
