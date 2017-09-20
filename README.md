@@ -1,6 +1,6 @@
 # Gallery
 
-Simple Photo Gallery by Angular
+Demo [here](https://manbrk.github.io/photoGallery/gallery)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+Simple Photo Gallery by Angular + [Angular CLI 1.4.2](https://github.com/angular/angular-cli) +  ngx-bootstrap": "^1.7.1"
 
