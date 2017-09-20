@@ -20,7 +20,7 @@ const IMAGES = [
   {'id': 4, 'category': 'guitar', 'caption': 'guitar', 'url': 'http://songsonguitar.com/wp-content/uploads/2013/12/electric-guitar-wallpaper-1024x752.jpg'},
   {'id': 5, 'category': 'guitar', 'caption': 'guitar', 'url': 'http://cdn.wallpapersafari.com/24/57/PlDXKu.jpg'},
   {'id': 6, 'category': 'guitar', 'caption': 'guitar', 'url': 'http://cdn.wallpapersafari.com/6/6/HW0bKZ.jpeg'},
-  {'id': 7, 'category': 'guitar', 'caption': 'guitar', 'url': 'https://wallpapertag.com/wallpaper/32240-free-download-guitar-wallpaper-1920x1200-for-ipad-2-984.jpg'},
+  {'id': 7, 'category': 'guitar', 'caption': 'guitar', 'url': 'https://images.designtrends.com/wp-content/uploads/2016/01/12101034/Black-and-White-Guitar-Wallpaper.jpg'},
   {'id': 8, 'category': 'guitar', 'caption': 'guitar', 'url': 'http://www.omgubuntu.co.uk/wp-content/uploads/2014/03/Ibanez-Infinity-Jaco-Kok.jpg'},
   {'id': 9, 'category': 'bike', 'caption': 'bike', 'url': 'http://kickstart.bikeexif.com/wp-content/uploads/2016/01/cb-cafe-racer-1-625x417.jpg'},
   {'id': 10, 'category': 'bike', 'caption': 'bike', 'url': 'http://static.highsnobiety.com/wp-content/uploads/2016/05/06111341/diamond-atelier-mark-II-000.jpg'},
